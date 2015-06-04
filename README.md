@@ -1,6 +1,7 @@
 # Wes
 This is my first Repository
 Actively Testing Response Time Now
+Actively Testing Response Time NowActively Testing Response Time Now
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,5 +15,8 @@ Actively Testing Response Time Now
 <font color = yellow>This is the text in the document</font>
 </body>
 
+</b>
+TESTING
+TESTING
 Testing This now
 </html> 
